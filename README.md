@@ -90,16 +90,5 @@ The program will simulate memory allocation for a predefined number of ticks (`T
 
 ---
 
-#### **Future Enhancements**
-1. **Best-Fit or Worst-Fit Allocation**:
-   - Implement alternative allocation strategies for comparison.
-   
-2. **Dynamic Memory Resizing**:
-   - Allow simulation of memory resizing during runtime.
-
-3. **Visualization**:
-   - Create a graphical representation of memory states over time.
-
----
 
 Feel free to reach out for questions or suggestions!
